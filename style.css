@@ -1,0 +1,43 @@
+.bungkus{
+    border: 1px solid; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+    
+   .jabar {
+      border: 1px solid #000000;
+      display: flex;
+      width: 500px;
+      justify-content: center;
+      border-radius: 10px;
+      
+    }
+
+    .jateng {
+        border: 1px solid #000000;
+        display: flex;
+        width: 500px;
+        justify-content: center;
+        border-radius: 10px;
+        margin: 10px;
+    }
+
+    .jatim{
+      border: 1px solid #000000;
+      display: flex;
+      width: 500px;
+      justify-content: center;
+      border-radius: 10x;
+      margin: 10px;
+    }
+    button {
+        width: 100px;
+        margin-left: 50px;
+        border-radius: 10px;
+        margin: 10px;
+        background-color: rgb(213, 241, 241);
+
+    }
+    
